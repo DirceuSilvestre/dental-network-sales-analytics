@@ -1,0 +1,14 @@
+# Arquivos temporários do Power BI
+*.pbix.ghost
+*.pbit.ghost
+~$*.pbix
+~$*.xlsx
+
+# Arquivos temporários do Microsoft Office / Excel
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
